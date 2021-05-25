@@ -1,4 +1,4 @@
-# unity_john_lemon
+# Unity 3D Game : John Lemon's Haunted Jaunt
 Unity final project for university, Games Engineering course, following the tutorial for John Lemon's Haunted Jaunt.
 
 <p align="center">
